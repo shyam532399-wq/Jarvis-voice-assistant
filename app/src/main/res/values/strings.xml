@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis Assistant</string>
+    <string name="accessibility_description">Jarvis ko Home, Back, Recents, Lock screen aur app kholne ke commands chalane ke liye ye service chahiye.</string>
+</resources>
